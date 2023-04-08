@@ -13,6 +13,7 @@ public class MainActivity2 extends AppCompatActivity {
     TextView tv;
     Button btn_back;
 
+    //테스트용 주석
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
